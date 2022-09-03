@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "travel-destination-app",
+    "slug": "snack-3cc8b8fa-d44f-4b47-ac74-3a8ab531c609",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier" : "com.ritvik_rout.travel-destination-app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+    "package" : "com.ritvik_rout.travel-destination-app"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
